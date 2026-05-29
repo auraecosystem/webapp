@@ -23,6 +23,28 @@ The latest version is available for
 * [Snap](https://snapcraft.io/telegram-desktop)
 * [Flatpak](https://flathub.org/apps/details/org.telegram.desktop)
 
+ ```.claude/claude.md
+Rust Core
+ ├── Networking
+ ├── TLS
+ ├── Blockchain
+ ├── AI Runtime
+ ├── Storage
+ └── IPC
+
+Tauri Shell
+ ├── Native macOS
+ ├── Windowing
+ ├── Tray
+ ├── Permissions
+ └── Notifications
+
+Frontend
+ ├── Astro
+ ├── Svelte
+ ├── Web Components
+ └── WASM modules
+ ```
 ## Old system versions
 
 Version **4.9.9** was the last that supports older systems
