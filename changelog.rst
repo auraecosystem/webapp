@@ -1,5 +1,6 @@
 6.8.4 beta (27.05.26)
 
+    
 - Drag-and-drop of photos into chats.
 - Testing Qt RHI renderer on macOS and Windows on ARM.
 - Native external webapp viewer on Linux by default.
